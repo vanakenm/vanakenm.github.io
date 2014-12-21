@@ -18,6 +18,12 @@ img {
     max-width: 100%;
 }
 
+img.img-company {
+  max-width: 50%;
+  display: block;
+  margin: 10px auto 10px auto;
+}
+
 a:link,a:visited {
     outline: 0;
 }
