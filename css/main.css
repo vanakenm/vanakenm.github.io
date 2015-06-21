@@ -18,6 +18,12 @@ img {
     max-width: 100%;
 }
 
+img.img-company {
+  max-width: 50%;
+  display: block;
+  margin: 10px auto 10px auto;
+}
+
 a:link,a:visited {
     outline: 0;
 }
@@ -33,6 +39,10 @@ a img {
 h1,h2,h3,h4,h5,h6{
     font-family: 'Oxygen', sans-serif;
     font-weight: 700;
+}
+
+p {
+  font-size: 18px;
 }
 
 /* ==========================================================================
